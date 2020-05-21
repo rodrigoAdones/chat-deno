@@ -9,3 +9,5 @@ In your terminal execute
 ```bash
 deno run --allow-net --allow-read src/server.ts
 ```
+
+To check the application you can open in http://localhost:3000
